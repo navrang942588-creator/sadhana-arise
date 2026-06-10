@@ -1,0 +1,24 @@
+{
+  "name": "Sadhana Arise",
+  "short_name": "Sadhana",
+  "description": "3 Saal Ka Maha Safar — 1095 Din · Walk · Surya · Meditation",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1117",
+  "theme_color": "#d4a843",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
